@@ -10,4 +10,5 @@ int main() {
     cin >> t;
     double displacement = u*t + 0.5*g*t*t;
     cout << "The displacement is " << displacement;
+    return 0;
 };
