@@ -4,4 +4,4 @@ project(LearningCPP)
 set(CMAKE_CXX_STANDARD 14)
 
 add_executable(LearningCPP
-        helloworld.cpp)
+        1/1.cpp)
