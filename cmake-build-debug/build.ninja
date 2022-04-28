@@ -49,8 +49,8 @@ cmake_ninja_workdir = C$:/Users/georg/CLionProjects/LearningCPP/cmake-build-debu
 
 build cmake_object_order_depends_target_LearningCPP: phony || CMakeFiles/LearningCPP.dir
 
-build CMakeFiles/LearningCPP.dir/1/1.cpp.obj: CXX_COMPILER__LearningCPP_Debug C$:/Users/georg/CLionProjects/LearningCPP/1/1.cpp || cmake_object_order_depends_target_LearningCPP
-  DEP_FILE = CMakeFiles\LearningCPP.dir\1\1.cpp.obj.d
+build CMakeFiles/LearningCPP.dir/1/3.cpp.obj: CXX_COMPILER__LearningCPP_Debug C$:/Users/georg/CLionProjects/LearningCPP/1/3.cpp || cmake_object_order_depends_target_LearningCPP
+  DEP_FILE = CMakeFiles\LearningCPP.dir\1\3.cpp.obj.d
   FLAGS = -g -std=gnu++14
   OBJECT_DIR = CMakeFiles\LearningCPP.dir
   OBJECT_FILE_DIR = CMakeFiles\LearningCPP.dir\1
@@ -63,7 +63,7 @@ build CMakeFiles/LearningCPP.dir/1/1.cpp.obj: CXX_COMPILER__LearningCPP_Debug C$
 #############################################
 # Link the executable LearningCPP.exe
 
-build LearningCPP.exe: CXX_EXECUTABLE_LINKER__LearningCPP_Debug CMakeFiles/LearningCPP.dir/1/1.cpp.obj
+build LearningCPP.exe: CXX_EXECUTABLE_LINKER__LearningCPP_Debug CMakeFiles/LearningCPP.dir/1/3.cpp.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\LearningCPP.dir
