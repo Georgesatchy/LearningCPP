@@ -4,4 +4,4 @@ project(LearningCPP)
 set(CMAKE_CXX_STANDARD 14)
 
 add_executable(LearningCPP
-        2/1.cpp)
+        3/1.cpp)
