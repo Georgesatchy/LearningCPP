@@ -81,7 +81,7 @@ int main() {
                         name, DOB, salary, department);
                 break;
             case 3:
-                cout << "WORK IN PROGRESS" << endl
+                cout << "WORK IN PROGRESS" << endl;
                 break;
             default:
                 cout << "Invalid Choice!" << endl;
